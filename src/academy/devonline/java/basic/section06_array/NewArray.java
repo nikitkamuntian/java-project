@@ -9,5 +9,9 @@ public class NewArray {
         String [] arrayWhitValues5 = {"1", "2", "3", "4", "5"};
 
         int [] arrayWhitSize1 = new int[5];
+        double [] arrayWhitSize2 = new double[5];
+        boolean [] arrayWhitSize3 = new boolean[5];
+        char [] arrayWhitSize4 = new char[5];
+        String [] arrayWhitSize5 = new String[5];
     }
 }
